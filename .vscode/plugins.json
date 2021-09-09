@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-secure-key-store","cordova-plugin-awesome-shared-preferences","cordova-plugin-secure-storage-echo","cordova-plugin-nativestorage"]}
